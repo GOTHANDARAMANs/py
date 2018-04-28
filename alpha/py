@@ -1,4 +1,4 @@
-char=raw_input()
+c=raw_input()
 list=['a,'e','i','o','u']
 if char in list:
     print("fwffs")

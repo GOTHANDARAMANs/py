@@ -1,0 +1,6 @@
+char=raw_input()
+list=['a','e','i','o','u']
+if char in list:
+ print("alphabet")
+else:
+ print("not a alphabet")
